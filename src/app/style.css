@@ -1,0 +1,18 @@
+.heading {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.para-light {
+  color: rgb(15, 244, 15);
+  margin: 20px;
+  padding: 20px;
+}
+.para-dark {
+  color: darkblue;
+  background-color: lightgray;
+  margin: 20px;
+  padding: 20px;
+}
+
