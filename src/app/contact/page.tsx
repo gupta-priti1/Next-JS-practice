@@ -4,7 +4,7 @@ import clsx from "clsx";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const page = () => {
+const Contact = () => {
   
   const pathName = usePathname();
 
@@ -33,4 +33,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Contact;
